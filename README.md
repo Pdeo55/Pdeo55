@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **IT core Subject and DS and Algorithms**
+- 🌱 I’m currently learning **IT core Subject,DevOps,DS and Algorithms**
 
 - 💬 Ask me about **Web Development**
 
